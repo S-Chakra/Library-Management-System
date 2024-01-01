@@ -17,7 +17,7 @@ class Reader { //represents a buyer or reader of the book
             this.yearOfBirth = yearOfBirth;
         }
         
-        this.zipCode = zipCode; //I couldn't figure out how to do this part
+        this.zipCode = zipCode; 
     }
 
     //3 Getter methods
